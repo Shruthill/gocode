@@ -1,10 +1,8 @@
 package main
-
 import (
-	"fmt"
+"fmt"
 )
 
-func main() {
-	fmt.Println("Hello world!")
-	fmt.Println("This is first code")
+func main(){
+fmt.Println("Hello world!")
 }
